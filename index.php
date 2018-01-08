@@ -187,50 +187,32 @@ A:visited { font-color: color=#000000 ;}
 			<tr>
 				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;&nbsp;<a href="inscricao_sjc.php" style="text-decoration: none;"><font color="#ffffff">Inscrição</font></a></div></td>
 			</tr>
-<!--	<tr>
-		<td height="20" bgcolor="#006633"><div align="center"><img src="img/bt_cursos_natal.gif" alt="" border="0"></div></td>
-	</tr>
-	
-	<tr>
-		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="cursos_natal.php" style="text-decoration: none;"><font color="#ffffff">Cursos Disponíveis</font></a></div></td>
-	</tr>
-	<tr>
-		<td height="1" bgcolor="#006633"></td>
-	</tr>
-	<tr>
-		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="cronograma_natal.php" style="text-decoration: none;"><font color="#ffffff">Cronograma</font></a></div></td>
-	</tr>
-	<tr>
-		<td height="1" bgcolor="#006633"></td>
-	</tr>
-	<tr>
-		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;&nbsp;<a href="inscricao_natal.php" style="text-decoration: none;"><font color="#ffffff">Inscrição</font></a></div></td>
-	</tr>-->
-	<tr>
-		<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Geral</div></td>
-	</tr> 
-	<tr>
-		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="normas.php" style="text-decoration: none;"><font color="#ffffff">Normas / Procedimentos</font></a></div></td>
-	</tr>
-	<tr>
-		<td height="1" bgcolor="#006633"></td>
-	</tr>
-	<tr>
-		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="curso_fora.php" style="text-decoration: none;"><font color="#ffffff">Cursos na sua Instituição</font></a></div></td>
-	</tr>
-	<tr>
-		<td height="1" bgcolor="#006633"></td>
-	</tr>
-	<tr>
-		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="contato.php" style="text-decoration: none;"><font color="#ffffff">Contato</font></a></div></td>
-	</tr>
-	
-</table>
+
+			<tr>
+				<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Geral</div></td>
+			</tr> 
+			<tr>
+				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="normas.php" style="text-decoration: none;"><font color="#ffffff">Normas / Procedimentos</font></a></div></td>
+			</tr>
+			<tr>
+				<td height="1" bgcolor="#006633"></td>
+			</tr>
+			<tr>
+				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="curso_fora.php" style="text-decoration: none;"><font color="#ffffff">Cursos na sua Instituição</font></a></div></td>
+			</tr>
+			<tr>
+				<td height="1" bgcolor="#006633"></td>
+			</tr>
+			<tr>
+				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="contato.php" style="text-decoration: none;"><font color="#ffffff">Contato</font></a></div></td>
+			</tr>
+			
+		</table>
 
 
 
-</td>
-<td width="700" height="400" valign="top" bgcolor="#FFFFFF">
+	</td>
+	<td width="700" height="400" valign="top" bgcolor="#FFFFFF">
 
 		<!--- Início Meio --->
 
