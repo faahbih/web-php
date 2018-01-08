@@ -170,7 +170,7 @@ A:visited { font-color: color=#000000 ;}
 				<td height="10"></td>
 			</tr>
 			<tr>
-				<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Cursos SJC</div></td>
+				<td height="20" bgcolor="#006633"><div align="center"><img src="img/bt_cursos_sjc.gif" alt="" border="0"></div></td>
 			</tr>	
 			<tr>
 				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="cursos_sjc.php" style="text-decoration: none;"><font color="#ffffff">Cursos Disponíveis</font></a></div></td>
@@ -207,7 +207,7 @@ A:visited { font-color: color=#000000 ;}
 		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;&nbsp;<a href="inscricao_natal.php" style="text-decoration: none;"><font color="#ffffff">Inscrição</font></a></div></td>
 	</tr>-->
 	<tr>
-		<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Geral</div></td>
+		<td height="20" bgcolor="#006633"><div align="center"><img src="img/bt_geral.gif" alt="" border="0"></div></td>
 	</tr> 
 	<tr>
 		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="normas.php" style="text-decoration: none;"><font color="#ffffff">Normas / Procedimentos</font></a></div></td>
@@ -227,141 +227,61 @@ A:visited { font-color: color=#000000 ;}
 	
 </table>
 
-
-
 </td>
-<td width="700" height="400" valign="top" bgcolor="#FFFFFF">
+<td width="605" height="400" valign="top" bgcolor="#FFFFFF">
 
 		<!--- Início Meio --->
-
-
-<!--	<table width="95%" align="center"><br><br>
-		<tr>
-		<td>
-		<font size="2">
-		<strong>Cursos de Curta Duração</strong><br><br>
-		</td>
-		</tr>
-	</table> -->
-	
-		<!--	<img src="img/1-GEOBIA.jpg" alt="" style="width: 580; height: 70" border="0"><br><br><br>
-			<img src="img/2-SENSORIAMENTO.jpg" alt="" style="width: 580; height: 70" border="0"> -->
-
+		
 			<table width="95%" align="center">
 				<tr>
 					<td>
-						<div align="justify">
-							<br>
-							<font size="2">
+	
+					<font face="Arial" size="2" color="#000000">
+					<br>
+						<font face="Arial" size="2" color="#000000">
+					  <div align="center"><br>
+				        <font color="#000000"><strong>CURSOS SJC</strong><br><br><br>
 
-								<img src="img/barra_for.gif" alt="" border="0"><br><br>
-								O programa de Formação Avançada em Geotecnologias é oferecido pela 
-								<a href="http://www.selperbrasil.org.br/" target="_blank" style="text-decoration: none;"><font color="#006633">SELPER 
-								Brasil</font></a> e tem por objetivo oferecer um conjunto de cursos 
-								de curta duração, presenciais e online, destinados a apoiar o uso das geotecnologias no 
-								Brasil.<br><br>
+<font color="#000000"><strong>40 horas</strong><br><br>                        					
+<!--<div align="center"><a href="curso_fundamentos_sjc.php"><font color="#000000"><strong>FUNDAMENTOS DE GEOPROCESSAMENTO</strong></a><br><br><br>    
+	<a href="curso_int_sjc.php"><font color="#000000"><strong>INTRODUÇÃO AO SPRING</strong></a><br><br><br> -->   
+		<a href="curso_pro.php"><font color="#000000"><strong>Processamento Digital de Imagens</strong></a><br><br>  
+			<a href="curso_banco_sjc.php"><font color="#000000"><strong>Banco de Dados Geográficos</strong></a><br><br>   
+				<a href="curso_ana.php"><font color="#000000"><strong>Análise Espacial de Dados Geográficos</strong></a><br><br>
+					<a href="curso_terraMA_sjc.php"><font color="#000000"><strong>Plataforma de Monitoramento Ambiental TerraMA<sup>2</sup></strong></a><br><br>
+<!--<a href="curso_int_luccme_sjc.php"><font color="#000000"><strong>INTRODUÇÃO 
+                AO LUCCME</strong></a>   <img src="../img/new-icon.png" align="absmiddle"><br>
+                <br><br>    -->
 
-								<strong>Cursos Presenciais: Nossa Proposta</strong><br><br>
-								Uma das atividades estatut&aacute;rias da SELPER &eacute; promover 
-								e estimular o desenvolvimento, estudo e pesquisa no campo de sensoriamento 
-								remoto, geotecnologia, geoprocessamento e &aacute;reas afins, no 
-								sentido amplo, abrangendo as fases de aquisi&ccedil;&atilde;o, tratamento, 
-								an&aacute;lise e interpreta&ccedil;&atilde;o dos dados, bem como 
-								a respectiva divulga&ccedil;&atilde;o das informa&ccedil;&otilde;es 
-								obtidas. <br>
-								<br>
-								Em raz&atilde;o da singularidade de seu campo de atua&ccedil;&atilde;o, 
-								a SELPER atua como disseminadora dos conhecimentos das t&eacute;cnicas 
-								de sensoriamento remoto, geotecnologias e geoprocessamento. Para 
-								tanto, promove eventos, como semin&aacute;rios, workshops, simp&oacute;sios, 
-								cursos, palestras e outras atividades afins, no intuito de incentivar 
-								a produ&ccedil;&atilde;o de trabalhos cient&iacute;ficos afetos 
-								&agrave; sua &aacute;rea de atua&ccedil;&atilde;o, bem como para 
-								reunir os especialistas do Brasil para interagirem entre si e 
-								tamb&eacute;m com estudantes e outros profissionais da &aacute;rea.<br>
-								<br>
-								As t&eacute;cnicas de sensoriamento remoto, geotecnologias e 
-								geoprocessamento v&ecirc;m sendo amplamente utilizadas nas mais 
-								diversas atividades econ&ocirc;micas e governamentais, fornecendo 
-								subs&iacute;dios adequados de planejamento e gest&atilde;o de 
-								projetos de desenvolvimento sustent&aacute;vel, e t&ecirc;m se 
-								tornado ferramentas essenciais para avalia&ccedil;&atilde;o, planejamento 
-								e monitoramento das interven&ccedil;&otilde;es humanas no meio 
-								f&iacute;sico que conduzam &agrave; sustentabilidade. As referidas 
-								t&eacute;cnicas s&atilde;o utilizadas, por exemplo, no planejamento 
-								urbano, monitoramento ambiental e de recursos naturais, monitoramento 
-								agr&iacute;cola, meteorologia, entre outras diversas aplica&ccedil;&otilde;es.<br>
-								<br>
-								Atualmente, com a preocupa&ccedil;&atilde;o que existe em rela&ccedil;&atilde;o 
-								ao desenvolvimento sustent&aacute;vel, tem sido crescente a demanda 
-								por cursos e eventos para &oacute;rg&atilde;os p&uacute;blicos 
-								e empresas privadas, dentre outros, que desempenham atividades 
-								voltadas &agrave; preserva&ccedil;&atilde;o do meio ambiente.<br>
-								<br>
-								&Eacute; nesse contexto que a SELPER Brasil oferece um programa 
-								de treinamento cujo objetivo &eacute; oferecer um conjunto de 
-								cursos de curta dura&ccedil;&atilde;o, destinados a apoiar o uso 
-								das t&eacute;cnicas de Sensoriamento Remoto, Geotecnologias e 
-								Geoprocessamento no Brasil.<br>
-								<br>
-								Merece destaque o fato de aproximadamente 4.700 profissionais 
-								terem participado dos cursos nos quinze anos de exist&ecirc;ncia 
-								do nosso programa de treinamento.<br>
-								<br>
-								Os cursos de curta duração estão abertos a todos os interessados 
-								e são ministrados em S&atilde;o Jos&eacute; dos Campos (SP) ou na 
-								sua <a href="curso_fora.php"><font color="#006633">instituição</font></a>. 
-								<br>
-								<br><br>
+                <br>
 
-							</div>
-						</font>
-					</div>
-				</td>
-			</tr>
-		</table>
-		
+                <font color="#000000"><strong>20 horas</strong><br><br>
+                	<a href="curso_terraview_sjc.php"><font color="#000000"><strong>Introdução ao TerraView</strong></a><br><br>
+<!--<a href="curso_queimadas_sjc.php"><font color="#000000"><strong>MONITORAMENTO DE QUEIMADAS POR SATÉLITE</strong></a><br><br><br>
+	<a href="curso_int_inpe_em_sjc.php"><font color="#000000"><strong>INTRODUÇÃO AO INPE-EM</strong></a> <img src="../img/new-icon.png" align="absmiddle"> <br><br><br>-->
+
+	</div>
+
+
+	<br><br>
+</font></div>
+</td>
+</tr>
+</table>
+
 		<!--- Fim Meio --->
 		
 		</td>
-		
 	</tr>
 	<tr>
-		<td height="20" bgcolor="#006633"><div align="center"><img src="img/bt_cursos_online.jpg" alt="" border="0"></div></td>
-	</tr>
+		<td colspan="3" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tr>
-		<td><br></td>
+		<td bgcolor="#61b78e"><a href="area_restrita.php"><img src="img/cadeado.gif" alt="" border="0"></a></td>
+		<td height="20" bgcolor="#61b78e"><div align="center"><font size="1" color="#FFFFFF">Atualizado em: 20/12/2017</font></div></td>
 	</tr>
-
-<tr>
-		<td align="center"><br><a href="http://www.selperbrasil.org.br/cursos/ead/sr_ac/" target="_blank"><img src="img/sr_ac_pq.jpg" alt="" border="0"></a><br><br>
-		
-		<a href="http://www.selperbrasil.org.br/cursos/ead/geobia/" target="_blank"><img src="img/geobia_pq.jpg" alt="" border="0"></a><br><br></td>
-	</tr>
-
-<!--	
-	<tr>
-		<td align="center"><br><a href="http://www.dpi.inpe.br/" target="_blank"><img src="img/logo_dpi.jpg" alt="" border="0"></a><br><br></td>
-	</tr>
-	<tr>
-		<td align="center"><br><a href="http://www.obt.inpe.br/" target="_blank"><img src="img/logo_obt.jpg" alt="" border="0"></a><br><br></td>
-	</tr>
--->	
-
-
 </table>
 </td>
-</tr>
-<tr>
-	<td colspan="3" valign="top">
-		<table width="780" border="0" cellspacing="0" cellpadding="0">
-			<tr>
-				<td bgcolor="#61b78e"><a href="area_restrita.php"><img src="img/cadeado.gif" alt="" border="0"></a></td>
-				<td height="20" bgcolor="#61b78e"><div align="center"><font size="1" color="#FFFFFF">Atualizado em: 20/12/2017</font></div></td>
-			</tr>
-		</table>
-	</td>
-</tr>
+	</tr>
 </table>
 
 </body>
