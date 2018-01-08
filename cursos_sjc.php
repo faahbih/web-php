@@ -170,7 +170,7 @@ A:visited { font-color: color=#000000 ;}
 				<td height="10"></td>
 			</tr>
 			<tr>
-				<td height="20" bgcolor="#006633"><div align="center"><img src="img/bt_cursos_sjc.gif" alt="" border="0"></div></td>
+				<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Cursos SJC</div></td>
 			</tr>	
 			<tr>
 				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="cursos_sjc.php" style="text-decoration: none;"><font color="#ffffff">Cursos Disponíveis</font></a></div></td>
@@ -207,7 +207,7 @@ A:visited { font-color: color=#000000 ;}
 		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;&nbsp;<a href="inscricao_natal.php" style="text-decoration: none;"><font color="#ffffff">Inscrição</font></a></div></td>
 	</tr>-->
 	<tr>
-		<td height="20" bgcolor="#006633"><div align="center"><img src="img/bt_geral.gif" alt="" border="0"></div></td>
+		<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Geral</div></td>
 	</tr> 
 	<tr>
 		<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="normas.php" style="text-decoration: none;"><font color="#ffffff">Normas / Procedimentos</font></a></div></td>
@@ -230,19 +230,19 @@ A:visited { font-color: color=#000000 ;}
 </td>
 <td width="605" height="400" valign="top" bgcolor="#FFFFFF">
 
-		<!--- Início Meio --->
-		
-			<table width="95%" align="center">
-				<tr>
-					<td>
-	
-					<font face="Arial" size="2" color="#000000">
-					<br>
-						<font face="Arial" size="2" color="#000000">
-					  <div align="center"><br>
-				        <font color="#000000"><strong>CURSOS SJC</strong><br><br><br>
+	<!-- Início Meio -->
 
-<font color="#000000"><strong>40 horas</strong><br><br>                        					
+	<table width="95%" align="center">
+		<tr>
+			<td>
+
+				<font face="Arial" size="2" color="#000000">
+					<br>
+					<font face="Arial" size="2" color="#000000">
+						<div align="center"><br>
+							<font color="#000000"><strong>CURSOS SJC</strong><br><br><br>
+
+								<font color="#000000"><strong>40 horas</strong><br><br>                        					
 <!--<div align="center"><a href="curso_fundamentos_sjc.php"><font color="#000000"><strong>FUNDAMENTOS DE GEOPROCESSAMENTO</strong></a><br><br><br>    
 	<a href="curso_int_sjc.php"><font color="#000000"><strong>INTRODUÇÃO AO SPRING</strong></a><br><br><br> -->   
 		<a href="curso_pro.php"><font color="#000000"><strong>Processamento Digital de Imagens</strong></a><br><br>  
@@ -260,7 +260,22 @@ A:visited { font-color: color=#000000 ;}
 <!--<a href="curso_queimadas_sjc.php"><font color="#000000"><strong>MONITORAMENTO DE QUEIMADAS POR SATÉLITE</strong></a><br><br><br>
 	<a href="curso_int_inpe_em_sjc.php"><font color="#000000"><strong>INTRODUÇÃO AO INPE-EM</strong></a> <img src="../img/new-icon.png" align="absmiddle"> <br><br><br>-->
 
-	</div>
+	</div><br><br>
+
+
+
+<table width="95%" align="center">
+		<tr>
+			<td>
+
+				<font face="Arial" size="2" color="#000000">
+					<br>
+					<font face="Arial" size="2" color="#000000">
+						<div align="center"><br>
+							<font color="#000000"><strong>CURSOS ONLINE</strong><br><br>
+
+		<a href="http://www.selperbrasil.org.br/cursos/ead/geobia/"><img src="img/1-GEOBIA.jpg" alt="" style="width:480; height: 60;" border="0"></a><br><br><br>
+		<a href="http://www.selperbrasil.org.br/cursos/ead/sr_ac/"><img src="img/2-SENSORIAMENTO.jpg" alt="" style="width:480; height: 60;" border="0"></a>
 
 
 	<br><br>
