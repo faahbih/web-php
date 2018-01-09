@@ -148,6 +148,8 @@ A:link { font-color: color=#000000 ;}
 A:hover { font-color: color=#000000 ;}
 A:visited { font-color: color=#000000 ;}
 </style>
+
+
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" bottommargin="0" onLoad="MM_preloadImages('img/home_on.gif', 'img/proposta_on.gif','img/hoteis_on.gif','img/docentes_on.gif','img/bibliografia_on.gif')">
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
@@ -156,78 +158,86 @@ A:visited { font-color: color=#000000 ;}
 		<tr>
 			<td colspan="2"><a href="index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','img/home_on.gif',1);return document.MM_returnValue"><img src="img/home.gif" name="home" border="0"></a><a href="proposta.php" onMouseOver="MM_swapImage('proposta','','img/proposta_on.gif',1);return document.MM_returnValue" onMouseOut="MM_swapImgRestore()"><img src="img/proposta.gif" name="proposta" border="0"></a><a href="docentes.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('docentes','','img/docentes_on.gif',1);return document.MM_returnValue"><img src="img/docentes.gif" name="docentes" border="0"></a><a href="bibliografia.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('bibliografia','','img/bibliografia_on.gif',1);return document.MM_returnValue"><img src="img/bibliografia.gif" name="bibliografia" border="0"></a><a href="contato.php" onMouseOver="MM_swapImage('contato','','img/contato_on.gif',1);return document.MM_returnValue" onMouseOut="MM_swapImgRestore()"><img src="img/contato.gif" name="contato" border="0"></a></td>
 		</tr>
-		<tr>
+<!-- 		<tr>
 			<td height="1" colspan="2" bgcolor="#000000"></td>
-		</tr>
+		</tr> -->
 	</table>
 
-</td>
-</tr>
-<tr>
-	<td width="175" valign="top" bgcolor="#61b78e">
-		<table width="90%" cellspacing="0" cellpadding="0" align="center">
-			<tr>
-				<td height="10"></td>
-			</tr>
-			<tr>
-				<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Cursos SJC</div></td>
-			</tr>	
-			<tr>
-				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="cursos_sjc.php" style="text-decoration: none;"><font color="#ffffff">Cursos Disponíveis</font></a></div></td>
-			</tr>
-			<tr>
-				<td height="1" bgcolor="#006633"></td>
-			</tr>
-			<tr>
-				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="cronograma_sjc.php" style="text-decoration: none;"><font color="#ffffff">Cronograma</font></a></div></td>
-			</tr>
-			<tr>
-				<td height="1" bgcolor="#006633"></td>
-			</tr>
-			<tr>
-				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;&nbsp;<a href="inscricao_sjc.php" style="text-decoration: none;"><font color="#ffffff">Inscrição</font></a></div></td>
-			</tr>
 
-			<tr>
-				<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Geral</div></td>
-			</tr> 
-			<tr>
-				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="normas.php" style="text-decoration: none;"><font color="#ffffff">Normas / Procedimentos</font></a></div></td>
-			</tr>
-			<tr>
-				<td height="1" bgcolor="#006633"></td>
-			</tr>
-			<tr>
-				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="curso_fora.php" style="text-decoration: none;"><font color="#ffffff">Cursos na sua Instituição</font></a></div></td>
-			</tr>
-			<tr>
-				<td height="1" bgcolor="#006633"></td>
-			</tr>
-			<tr>
-				<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="contato.php" style="text-decoration: none;"><font color="#ffffff">Contato</font></a></div></td>
-			</tr>
-			
-		</table>
+	<tr>
+		<td width="175" valign="top" bgcolor="#61b78e">
+			<table width="90%" cellspacing="0" cellpadding="0" align="center">
+				<tr>
+					<td height="10"></td>
+				</tr>
+
+				<!-- Cursos Presenciais -->
+				<tr>
+					<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Cursos SJC</div></td>
+				</tr>	
+				<tr>
+					<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="cursos_sjc.php" style="text-decoration: none;"><font color="#ffffff">Cursos Disponíveis</font></a></div></td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#006633"></td>
+				</tr>
+				<tr>
+					<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="cronograma_sjc.php" style="text-decoration: none;"><font color="#ffffff">Cronograma</font></a></div></td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#006633"></td>
+				</tr>
+				<tr>
+					<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="inscricao_sjc.php" style="text-decoration: none;"><font color="#ffffff">Inscrição</font></a></div></td>
+				</tr>
+
+				<!-- Cursos Online -->
+				<tr>
+					<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Cursos Online</div></td>
+				</tr> 
+				<tr>
+					<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="normas.php" style="text-decoration: none;"><font color="#ffffff">Sensoriamento Remoto</font></a></div></td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#006633"></td>
+				</tr>
+				<tr>
+					<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="curso_fora.php" style="text-decoration: none;"><font color="#ffffff">GEOBIA</font></a></div></td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#006633"></td>
+				</tr>
 
 
+				<!-- Instruções -->
+				<tr>
+					<td height="20" bgcolor="#006633"><div align="center" style="color:#ffffff">Geral</div></td>
+				</tr> 
+				<tr>
+					<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="normas.php" style="text-decoration: none;"><font color="#ffffff">Normas / Procedimentos</font></a></div></td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#006633"></td>
+				</tr>
+				<tr>
+					<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="curso_fora.php" style="text-decoration: none;"><font color="#ffffff">Cursos na sua Instituição</font></a></div></td>
+				</tr>
+				<tr>
+					<td height="1" bgcolor="#006633"></td>
+				</tr>
+				<tr>
+					<td height="20"><div align="left"><img src="img/dot.gif" alt="" border="0">&nbsp;<a href="contato.php" style="text-decoration: none;"><font color="#ffffff">Contato</font></a></div></td>
+				</tr>
 
-	</td>
-	<td width="700" height="400" valign="top" bgcolor="#FFFFFF">
-
-		<!--- Início Meio --->
+			</table>
 
 
-<!--	<table width="95%" align="center"><br><br>
-		<tr>
-		<td>
-		<font size="2">
-		<strong>Cursos de Curta Duração</strong><br><br>
+
 		</td>
-		</tr>
-	</table> -->
-	
-		<!--	<img src="img/1-GEOBIA.jpg" alt="" style="width: 580; height: 70" border="0"><br><br><br>
-			<img src="img/2-SENSORIAMENTO.jpg" alt="" style="width: 580; height: 70" border="0"> -->
+		<td width="700" height="400" valign="top" bgcolor="#FFFFFF">
+
+			
+		<!-- Início Meio -->
 
 			<table width="95%" align="center">
 				<tr>
@@ -294,57 +304,47 @@ A:visited { font-color: color=#000000 ;}
 								e são ministrados em S&atilde;o Jos&eacute; dos Campos (SP) ou na 
 								sua <a href="curso_fora.php"><font color="#006633">instituição</font></a>. 
 								<br>
-								<br><br>
-
+								<br>
 							</div>
 						</font>
 					</div>
 				</td>
 			</tr>
 		</table>
-		
-		<!--- Fim Meio --->
-		
-		</td>
-		
-	</tr>
-	<tr>
-		<td height="20" bgcolor="#006633"><div align="center"><img src="img/bt_cursos_online.jpg" alt="" border="0"></div></td>
-	</tr>
-	<tr>
-		<td><br></td>
-	</tr>
 
-<tr>
-		<td align="center"><br><a href="http://www.selperbrasil.org.br/cursos/ead/sr_ac/" target="_blank"><img src="img/sr_ac_pq.jpg" alt="" border="0"></a><br><br>
-		
-		<a href="http://www.selperbrasil.org.br/cursos/ead/geobia/" target="_blank"><img src="img/geobia_pq.jpg" alt="" border="0"></a><br><br></td>
-	</tr>
-
-<!--	
-	<tr>
-		<td align="center"><br><a href="http://www.dpi.inpe.br/" target="_blank"><img src="img/logo_dpi.jpg" alt="" border="0"></a><br><br></td>
-	</tr>
-	<tr>
-		<td align="center"><br><a href="http://www.obt.inpe.br/" target="_blank"><img src="img/logo_obt.jpg" alt="" border="0"></a><br><br></td>
-	</tr>
--->	
-
-
-</table>
-</td>
-</tr>
-<tr>
-	<td colspan="3" valign="top">
-		<table width="780" border="0" cellspacing="0" cellpadding="0">
+		<table width="95%" align="center">
 			<tr>
-				<td bgcolor="#61b78e"><a href="area_restrita.php"><img src="img/cadeado.gif" alt="" border="0"></a></td>
-				<td height="20" bgcolor="#61b78e"><div align="center"><font size="1" color="#FFFFFF">Atualizado em: 20/12/2017</font></div></td>
-			</tr>
-		</table>
-	</td>
-</tr>
-</table>
+				<td>
 
-</body>
-</html>
+					<font face="Arial" size="2" color="#000000">
+						<br>
+						<font face="Arial" size="2" color="#000000">
+							<div align="center"><br>
+								<font color="#000000"><strong>CURSOS ONLINE</strong><br><br>
+
+									<a href="http://www.selperbrasil.org.br/cursos/ead/geobia/" target="_blank"><img src="img/1-GEOBIA.jpg" alt="" style="width:480; height: 60;" border="0"></a><br><br><br>
+									<a href="http://www.selperbrasil.org.br/cursos/ead/sr_ac/" target="_blank"><img src="img/2-SENSORIAMENTO.jpg" alt="" style="width:480; height: 60;" border="0"></a>
+
+
+									<br><br>
+								</font></div>
+							</td>
+						</tr>
+					</table><br><br><br>
+
+					<!-- Fim Meio -->
+
+					<tr>
+						<td colspan="3" valign="top">
+							<table width="780" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td bgcolor="#61b78e"><a href="area_restrita.php"><img src="img/cadeado.gif" alt="" border="0"></a></td>
+									<td height="20" bgcolor="#61b78e"><div align="center"><font size="1" color="#FFFFFF">Atualizado em: 20/12/2017</font></div></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				
+
+			</body>
+			</html>
