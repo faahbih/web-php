@@ -1,5 +1,5 @@
 
-<table width="780" border="0" cellspacing="0" cellpadding="0">
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tr>
 		<td colspan="3" valign="top"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
