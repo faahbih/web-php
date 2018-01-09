@@ -135,19 +135,10 @@ function MM_displayStatusMsg(msgStr) { //v1.0
 		}
 	}
 </script>
+
+<link rel="stylesheet" href="estilo.css">
 </head>
-<STYLE type=text/css>
-p { font-size: 8pt; font-family: Arial; text-align: justify}
-.pmin { font-size: 8pt; font-family: Arial; text-align: justify }
-li { font-size: 8pt; font-family: Arial; text-align: justify}
-td { font-size: 8pt; font-family: Arial; text-align: center}
-LINK {FONT-FAMILY: Arial, Helvetica, sans-serif; font-color: color=#000000 ;}
-.tabmenor {font-size: 8pt; font-family: Arial; font-color: color=#000000 ;text-align: center}
-h3 {font-size: 8pt; font-family: Arial; text-align: center; TEXT-DECORATION: underline}
-A:link { font-color: color=#000000 ;}
-A:hover { font-color: color=#000000 ;}
-A:visited { font-color: color=#000000 ;}
-</style>
+
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" bottommargin="0" onLoad="MM_preloadImages('img/home_on.gif', 'img/proposta_on.gif','img/hoteis_on.gif','img/docentes_on.gif','img/bibliografia_on.gif')">
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -238,53 +229,53 @@ A:visited { font-color: color=#000000 ;}
 			<!-- Início Meio -->
 
 			<table width="95%" align="center">
-			<tr>
-				<td>
-					<font face="Arial" size="2" color="#000000"><br>
-						<div align="center"><br>
-							<font color="#000000"><strong>CURSOS SJC</strong></font><br><br><br>
-							<font color="#000000"><strong>40 horas</strong></font><br><br>                        					
-
-							<a href="curso_pro.php"><font color="#000000"><strong>Processamento Digital de Imagens</strong></a><br><br>
-							<a href="curso_banco_sjc.php"><font color="#000000"><strong>Banco de Dados Geográficos</strong></a><br><br>   
-							<a href="curso_ana.php"><font color="#000000"><strong>Análise Espacial de Dados Geográficos</strong></a><br><br>
-							<a href="curso_terraMA_sjc.php"><font color="#000000"><strong>Plataforma de Monitoramento Ambiental TerraMA<sup>2</sup></strong></a><br><br><br>
-
-							<font color="#000000"><strong>20 horas</strong></font><br><br>
-							<a href="curso_terraview_sjc.php"><font color="#000000"><strong>Introdução ao TerraView</strong></a><br><br>
-						</div>
-				</td>
-			</tr>
-			</table>
-
-			
-			<!-- Cursos Online Banners --> 
-			<table width="95%" align="center">
-			<tr>
-				<td>
-					<font face="Arial" size="2" color="#000000"><br>
-						<div align="center"><br>
-							<font color="#000000"><strong>CURSOS ONLINE</strong><br><br>
-							<a href="http://www.selperbrasil.org.br/cursos/ead/geobia/" target="_blank"><img src="img/1-GEOBIA.jpg" alt="" style="width:480; height: 60;" border="0"></a><br><br><br>
-							<a href="http://www.selperbrasil.org.br/cursos/ead/sr_ac/" target="_blank"><img src="img/2-SENSORIAMENTO.jpg" alt="" style="width:480; height: 60;" border="0"></a><br><br>
-							</font>
-						</div>
-				</td>
-			</tr>
-			</table>
-
-			<!-- Fim Meio -->
-
-			<tr>
-				<td colspan="3" valign="top">
-				<table width="780" border="0" cellspacing="0" cellpadding="0">
 				<tr>
-					<td bgcolor="#61b78e"><a href="area_restrita.php"><img src="img/cadeado.gif" alt="" border="0"></a></td>
-					<td height="20" bgcolor="#61b78e"><div align="center"><font size="1" color="#FFFFFF">Atualizado em: 20/12/2017</font></div></td>
-				</tr>
-				</table>
-				</td>
-			</tr>
+					<td>
+						<font face="Arial" size="2" color="#000000"><br>
+							<div align="center"><br>
+								<font color="#000000"><strong>CURSOS SJC</strong></font><br><br><br>
+								<font color="#000000"><strong>40 horas</strong></font><br><br>                        					
 
-	</body>
-</html>
+								<a href="curso_pro.php"><font color="#000000"><strong>Processamento Digital de Imagens</strong></a><br><br>
+									<a href="curso_banco_sjc.php"><font color="#000000"><strong>Banco de Dados Geográficos</strong></a><br><br>   
+										<a href="curso_ana.php"><font color="#000000"><strong>Análise Espacial de Dados Geográficos</strong></a><br><br>
+											<a href="curso_terraMA_sjc.php"><font color="#000000"><strong>Plataforma de Monitoramento Ambiental TerraMA<sup>2</sup></strong></a><br><br><br>
+
+												<font color="#000000"><strong>20 horas</strong></font><br><br>
+												<a href="curso_terraview_sjc.php"><font color="#000000"><strong>Introdução ao TerraView</strong></a><br><br>
+												</div>
+											</td>
+										</tr>
+									</table>
+
+									
+									<!-- Cursos Online Banners --> 
+									<table width="95%" align="center">
+										<tr>
+											<td>
+												<font face="Arial" size="2" color="#000000"><br>
+													<div align="center"><br>
+														<font color="#000000"><strong>CURSOS ONLINE</strong><br><br>
+															<a href="http://www.selperbrasil.org.br/cursos/ead/geobia/" target="_blank"><img src="img/1-GEOBIA.jpg" alt="" style="width:480; height: 60;" border="0"></a><br><br><br>
+															<a href="http://www.selperbrasil.org.br/cursos/ead/sr_ac/" target="_blank"><img src="img/2-SENSORIAMENTO.jpg" alt="" style="width:480; height: 60;" border="0"></a><br><br>
+														</font>
+													</div>
+												</td>
+											</tr>
+										</table>
+
+										<!-- Fim Meio -->
+
+										<tr>
+											<td colspan="3" valign="top">
+												<table width="780" border="0" cellspacing="0" cellpadding="0">
+													<tr>
+														<td bgcolor="#61b78e"><a href="area_restrita.php"><img src="img/cadeado.gif" alt="" border="0"></a></td>
+														<td height="20" bgcolor="#61b78e"><div align="center"><font size="1" color="#FFFFFF">Atualizado em: 20/12/2017</font></div></td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+
+									</body>
+									</html>

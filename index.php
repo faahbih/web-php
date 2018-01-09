@@ -135,22 +135,11 @@ function MM_displayStatusMsg(msgStr) { //v1.0
 		}
 	}
 </script>
+	<link rel="stylesheet" href="estilo.css">
 </head>
-<STYLE type=text/css>
-p { font-size: 8pt; font-family: Arial; text-align: justify}
-.pmin { font-size: 8pt; font-family: Arial; text-align: justify }
-li { font-size: 8pt; font-family: Arial; text-align: justify}
-td { font-size: 8pt; font-family: Arial; text-align: center}
-LINK {FONT-FAMILY: Arial, Helvetica, sans-serif; font-color: color=#000000 ;}
-.tabmenor {font-size: 8pt; font-family: Arial; font-color: color=#000000 ;text-align: center}
-h3 {font-size: 8pt; font-family: Arial; text-align: center; TEXT-DECORATION: underline}
-A:link { font-color: color=#000000 ;}
-A:hover { font-color: color=#000000 ;}
-A:visited { font-color: color=#000000 ;}
-</style>
 
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" bottommargin="0" onLoad="MM_preloadImages('img/home_on.gif', 'img/proposta_on.gif','img/hoteis_on.gif','img/docentes_on.gif','img/bibliografia_on.gif')">
+<body>
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 		<tr>
 			<td colspan="2"><a href="http://www.selperbrasil.org.br/" target="_blank"><img src="img/curso.jpg" width="780" height="90" alt="" border="0"></a></td>
@@ -158,7 +147,7 @@ A:visited { font-color: color=#000000 ;}
 		<tr>
 			<td colspan="2"><a href="index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','img/home_on.gif',1);return document.MM_returnValue"><img src="img/home.gif" name="home" border="0"></a><a href="proposta.php" onMouseOver="MM_swapImage('proposta','','img/proposta_on.gif',1);return document.MM_returnValue" onMouseOut="MM_swapImgRestore()"><img src="img/proposta.gif" name="proposta" border="0"></a><a href="docentes.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('docentes','','img/docentes_on.gif',1);return document.MM_returnValue"><img src="img/docentes.gif" name="docentes" border="0"></a><a href="bibliografia.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('bibliografia','','img/bibliografia_on.gif',1);return document.MM_returnValue"><img src="img/bibliografia.gif" name="bibliografia" border="0"></a><a href="contato.php" onMouseOver="MM_swapImage('contato','','img/contato_on.gif',1);return document.MM_returnValue" onMouseOut="MM_swapImgRestore()"><img src="img/contato.gif" name="contato" border="0"></a></td>
 		</tr>
-<!-- 		<tr>
+	<!-- <tr>
 			<td height="1" colspan="2" bgcolor="#000000"></td>
 		</tr> -->
 	</table>
@@ -230,8 +219,6 @@ A:visited { font-color: color=#000000 ;}
 				</tr>
 
 			</table>
-
-
 
 		</td>
 		<td width="700" height="400" valign="top" bgcolor="#FFFFFF">

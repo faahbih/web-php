@@ -1,0 +1,14 @@
+body{
+	bgcolor="#FFFFFF" leftmargin="0" topmargin="0" bottommargin="0" onLoad="MM_preloadImages('img/home_on.gif', 'img/proposta_on.gif','img/hoteis_on.gif','img/docentes_on.gif','img/bibliografia_on.gif')"
+}
+
+p { font-size: 8pt; font-family: Arial; text-align: justify}
+.pmin { font-size: 8pt; font-family: Arial; text-align: justify }
+li { font-size: 8pt; font-family: Arial; text-align: justify}
+td { font-size: 8pt; font-family: Arial; text-align: center}
+link {FONT-FAMILY: Arial, Helvetica, sans-serif; font-color: color=#000000 ;}
+.tabmenor {font-size: 8pt; font-family: Arial; font-color: color=#000000 ;text-align: center}
+h3 {font-size: 8pt; font-family: Arial; text-align: center; TEXT-DECORATION: underline}
+A:link { font-color: color=#000000 ;}
+A:hover { font-color: color=#000000 ;}
+A:visited { font-color: color=#000000 ;}
