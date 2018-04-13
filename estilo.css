@@ -1,14 +1,104 @@
-body{
-	bgcolor="#FFFFFF" leftmargin="0" topmargin="0" bottommargin="0" onLoad="MM_preloadImages('img/home_on.gif', 'img/proposta_on.gif','img/hoteis_on.gif','img/docentes_on.gif','img/bibliografia_on.gif')"
+body {
+	background-color:"#fff"; leftmargin="0" topmargin="0" bottommargin="0" onLoad="MM_preloadImages('img/home_on.gif', 'img/proposta_on.gif','img/hoteis_on.gif','img/docentes_on.gif','img/bibliografia_on.gif')"
+	font-family: arial;
 }
 
-p { font-size: 8pt; font-family: Arial; text-align: justify}
-.pmin { font-size: 8pt; font-family: Arial; text-align: justify }
-li { font-size: 8pt; font-family: Arial; text-align: justify}
-td { font-size: 8pt; font-family: Arial; text-align: center}
-link {FONT-FAMILY: Arial, Helvetica, sans-serif; font-color: color=#000000 ;}
-.tabmenor {font-size: 8pt; font-family: Arial; font-color: color=#000000 ;text-align: center}
-h3 {font-size: 8pt; font-family: Arial; text-align: center; TEXT-DECORATION: underline}
-A:link { font-color: color=#000000 ;}
-A:hover { font-color: color=#000000 ;}
-A:visited { font-color: color=#000000 ;}
+p {
+	font-size: 14px; 
+	font-family: arial;
+}
+/* .pmin { font-size: 10pt; font-family: Arial; text-align: justify } */
+h1 {
+	font-size: 60px; 
+	font-family: arial;
+}
+
+h2 {
+	font-size: 16px; 
+	font-family: Arial; 
+	color:#026634;
+}
+h3 {
+	font-size: 12px; 
+	font-family: Arial; 
+	text-align: center; 
+	text-decoration: underline;
+}
+
+
+/* 
+=======
+links 
+======= 
+*/
+
+a:link { 
+	color:#62b790; text-decoration: none;
+}
+	
+a:hover { 
+	color:#026634; text-decoration: underline;
+}
+	
+a:visited { 
+	color:#000 ;
+}
+
+
+/* 
+======
+lista 
+======
+*/
+
+ul {
+	list-style-type: none;/*retira marcadores*/
+}
+
+li { 
+	font-size: 10pt; font-family: Arial; text-align: justify
+}
+
+
+/* 
+======
+table 
+======
+*/
+
+td { 
+	font-size: 10pt; font-family: Arial; text-align: center;}
+
+	/* .tabmenor {
+		font-size: 8pt; font-family: Arial; font-color: color=#000000 ;text-align: center
+	} */
+
+/* 
+================
+para o novo menu 
+================
+*/
+
+tr .menu {
+		text-align: center;
+		color: #fff;
+	}
+
+	a:visited {
+		color: #fff;
+	}
+		a:hover { 
+			color: #000; text-decoration: underline; text-shadow: none;
+		} 
+
+
+
+/* 
+=======
+footer 
+=======
+*/
+.atualiza{
+	padding: 20px;
+}
+
