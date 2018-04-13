@@ -3,5 +3,5 @@
 
 - Página demo | [Selper - Cursos de Curta Duração ](https://faahbih.github.io/web-php/)
 
-- Landing Page demo | [Selper - Cursos de Curta Duração](https://faahbih.github.io/landing-page/) | [Código no Github](https://github.com/faahbih/landing-page)
+<!-- - Landing Page demo | [Selper - Cursos de Curta Duração](https://faahbih.github.io/landing-page/) | [Código no Github](https://github.com/faahbih/landing-page) -->
 
